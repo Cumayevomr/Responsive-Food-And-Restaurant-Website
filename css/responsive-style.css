@@ -66,10 +66,10 @@
     }
 
     /* newsletter */
-    .nevsletter{
+    .newsletter{
         width: 75%;
     }
-    .nevsletter .main-btn{
+    .newsletter .main-btn{
         width: 100%;
         margin-top: 1rem;
     }
