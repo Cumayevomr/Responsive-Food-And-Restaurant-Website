@@ -2,7 +2,6 @@
     
     /* about section */
 
-
 }
 
 @media screen and (max-width: 991px) {
@@ -52,7 +51,10 @@
 
 
     /* story section */
-
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+    }
 
     /* carousel section */
 }
